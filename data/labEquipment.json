@@ -1,0 +1,35 @@
+[
+  {
+    "id": "eq001",
+    "name": "Центрифуга лабораторная",
+    "manufacturer": "Thermo Fisher",
+    "model": "CLS-500",
+    "price": 45000,
+    "isAvailable": true,
+    "purchaseDate": "2023-05-15",
+    "specifications": ["5000 об/мин", "емкость 50 мл", "LED дисплей"],
+    "lastMaintenance": "2024-01-10"
+  },
+  {
+    "id": "eq002",
+    "name": "Микроскоп биологический",
+    "manufacturer": "Olympus",
+    "model": "CX23",
+    "price": 28000,
+    "isAvailable": false,
+    "purchaseDate": "2022-08-20",
+    "specifications": ["увеличение 40-1000x", "бинокуляр", "подсветка"],
+    "lastMaintenance": "2024-02-15"
+  },
+  {
+    "id": "eq003",
+    "name": "Спектрофотометр",
+    "manufacturer": "Shimadzu",
+    "model": "UV-1900",
+    "price": 120000,
+    "isAvailable": true,
+    "purchaseDate": "2024-01-05",
+    "specifications": ["диапазон 190-1100 нм", "автосамплер", "USB интерфейс"],
+    "lastMaintenance": "2024-03-01"
+  }
+]
